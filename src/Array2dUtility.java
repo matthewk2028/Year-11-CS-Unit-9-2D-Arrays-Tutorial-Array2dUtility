@@ -1,7 +1,7 @@
 
 public class Array2dUtility {
 
-    // Declare all methods as static.
+    //  Declare all methods as static.
 
     // 1. print
     // Implement a method called print that prints out the values of a 2D array of integers row by row.
